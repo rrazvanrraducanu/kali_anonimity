@@ -1,6 +1,9 @@
 This script will install anonimity apps in debian based systems and will also run them.
 
-Clone the repository and then:
+Clone the repository and:
 
-#chmod +x anon.sh
-#./anon.sh
+cd kali_anonimity
+
+chmod +x anon.sh
+
+./anon.sh
